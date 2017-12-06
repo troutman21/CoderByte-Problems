@@ -17,3 +17,4 @@ function ABCheck(str){
   return result;
 }
 // console.log(ABCheck('lank borrowed'));
+//console.log('fuck yea'); 
